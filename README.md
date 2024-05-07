@@ -1,0 +1,2 @@
+# Reconhecimento-facial
+Reconhecimento facial usando haarcascade_frontalface_default.xml
